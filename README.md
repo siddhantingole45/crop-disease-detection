@@ -21,7 +21,7 @@ A **Streamlit-based web application** that detects crop diseases from uploaded i
 
 ## 🔧 How to Run the App
 - Clone the repository:
-    git clone https://github.com/your-username/crop-disease-detector.git
+    git clone https://github.com/siddhantingole45/crop-disease-detection.git
     cd crop-disease-detector
 
 - Install dependencies:
@@ -31,3 +31,6 @@ A **Streamlit-based web application** that detects crop diseases from uploaded i
 streamlit run crop_disease_app.py
 
 - Open the app in your browser using the URL provided by Streamlit.
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
